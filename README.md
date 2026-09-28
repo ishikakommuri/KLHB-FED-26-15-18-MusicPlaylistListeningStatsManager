@@ -18,6 +18,8 @@
 
 ## Abstract
 
+## Abstract
+
 Music Playlist & Listening-Stats Manager is a Java application designed to manage songs and playlists.
 
 The application allows users to:
@@ -33,61 +35,5 @@ The application allows users to:
 
 The project demonstrates the use of Java programming and basic Object-Oriented Programming concepts for managing music and playlist data.
 
-## Technologies and Concepts
 
-The project uses the following Java concepts:
 
-- Java Programming
-- Object-Oriented Programming
-- Classes and Objects
-- Methods
-- ArrayList
-- Loops
-- Conditional Statements
-- Switch Statements
-- Searching
-- Sorting
-- Data Management
-
-## Project Features
-
-### Song Management
-- Add songs
-- Delete songs
-- Search for songs
-- Display songs
-
-### Playlist Management
-- Organize songs into playlists
-- Manage playlist data
-
-### Listening Statistics
-- Track play count
-- Calculate total listening time
-- Find most-played songs
-
-## Setup and Execution
-
-### Requirements
-
-- Java
-- Java-compatible IDE such as VS Code
-
-### Steps
-
-1. Clone or download this repository.
-2. Open the project in a Java-compatible IDE.
-3. Open the source code from the `src` folder.
-4. Compile and run the Java program.
-5. Follow the program instructions to manage songs, playlists, and listening statistics.
-
-## Repository Structure
-
-MusicPlaylistListeningStatsManager/
-│
-├── src/       # Source code
-├── docs/      # Project documents
-├── data/      # Project data
-├── results/   # Project results
-├── reports/   # Project reports
-└── README.md  # Project information
